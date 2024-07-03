@@ -1,0 +1,36 @@
+nav{
+    background-color: deepskyblue;
+    padding: 10px;
+    display: flox;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul li{
+    margin-right: 20px;
+}
+
+nav ul li a{
+    color: bisque;
+    text-decoration: none;
+}
+
+main{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: cornflowerblue;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
